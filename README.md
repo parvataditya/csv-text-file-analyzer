@@ -35,8 +35,8 @@ csv-text-file-analyzer/
 
 ## ▶️ How to Run
 
-1. Open the Python program in [Google Colab](https://colab.research.google.com/).
-2. Run the code cell.
+1. Open the Python program in vscode.
+2. Run the code.
 3. Upload a CSV file containing the following column headers:
 
    `Roll Number, Name, Course, Marks`
